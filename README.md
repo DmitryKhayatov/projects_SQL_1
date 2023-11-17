@@ -1,2 +1,2 @@
 # projects
-Некоторые проекты при обучении и приктике
+Some SQL projects completed during training and practice.
